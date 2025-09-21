@@ -456,7 +456,7 @@ export default function LucaLandingPage() {
               </div>
               <div className="hero-image">
                 {/* Replace with your image */}
-                <img src="../public/srufer.png" height={1000} alt="Luca the surfer" />
+                <img src="../dist/srufer.png" height={1000} alt="Luca the surfer" />
               </div>
             </div>
           </section>
@@ -469,19 +469,19 @@ export default function LucaLandingPage() {
             <div className="crew-grid">
               <div className="crew-card">
                  {/* Replace with your image */}
-                <img src="../public/man1.png" alt="Luca" />
+                <img src="../dist/man1.png" alt="Luca" />
                 <h3>Luca</h3>
                 <p>An internal Lead determined to grow his leadership skills.</p>
               </div>
               <div className="crew-card">
                  {/* Replace with your image */}
-                <img src="../public/man1.png" alt="Rex" />
+                <img src="../dist/man1.png" alt="Rex" />
                 <h3>Rex</h3>
                 <p>The information-hoarding director who stifles collaboration.</p>
               </div>
               <div className="crew-card">
                  {/* Replace with your image */}
-                <img src="../public/man1.png" alt="Valerie" />
+                <img src="../dist/man1.png" alt="Valerie" />
                 <h3>Valerie</h3>
                 <p>The leader who has empathy while prioritizing results.</p>
               </div>
@@ -495,7 +495,7 @@ export default function LucaLandingPage() {
             <div className="video-container">
               {/* <img src='https://i.ibb.co/7W8VYt1/leadership-minutes-logo.png' alt='Leadership Minutes Logo' style={{ position: 'absolute', top: '10px', left: '10px', width: '150px', zIndex: 2 }} /> */}
                {/* Replace with your thumbnail image */}
-              <img src="../public/Episode.png" alt="Leadership Minutes Episode 1" className="video-thumbnail" />
+              <img src="../dist/Episode.png" alt="Leadership Minutes Episode 1" className="video-thumbnail" />
               
               <div className="video-overlay">
                 <span className="episode-tag">Episode 01</span>
@@ -520,7 +520,7 @@ export default function LucaLandingPage() {
                 </ul>
               </div>
                {/* Replace with your image */}
-              <img src="../public/849f4ea6ecfa13af5a9575177ceb421cf146c773 (1).png" alt="Author Leslie" className="author-photo"/>
+              <img src="../dist/849f4ea6ecfa13af5a9575177ceb421cf146c773 (1).png" alt="Author Leslie" className="author-photo"/>
             </div>
           </section>
           
@@ -529,7 +529,7 @@ export default function LucaLandingPage() {
             <h2 className="section-title">Where Luca's story began.</h2>
             <div className="book-section">
                {/* Replace with your book cover image */}
-              <img src="../public/image.png" alt="Core Feeding Teams book cover" />
+              <img src="../dist/image.png" alt="Core Feeding Teams book cover" />
               <br/>
               <a href="#" className="btn">Get the book for deeper knowledge</a>
               <br/><br/>
